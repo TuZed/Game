@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "924946e7512fc233",
+        "id": "81c6016125b9df2b",
         "type": "tabs",
         "children": [
           {
-            "id": "73ee6be52ef7edf6",
+            "id": "84a87d92255e6b8b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -180,9 +180,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "73ee6be52ef7edf6",
+  "active": "84a87d92255e6b8b",
   "lastOpenFiles": [
     "Untitled.md",
+    "Untitled.base",
     "Untitled",
     "Mechanism.md",
     "GAME.canvas",
