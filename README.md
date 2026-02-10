@@ -5,7 +5,7 @@
 \## LOGIC
 
 * PHẦN MỀM SOẠN THẢO VÀ SẮP XẾP LÝ THUYẾT OBSIDIAN -
-  -> \[\[https://obsidian.md/download]]
+  -> https://obsidian.md/download
 
 
 
