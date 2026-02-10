@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"68e48ccf16c476cc","type":"text","text":"GAME\n\n","x":-480,"y":11,"width":250,"height":60},
+		{"id":"b9718d0b4e39c8f0","type":"text","text":"Theory\n","x":-195,"y":-100,"width":250,"height":60},
+		{"id":"d4f91365ad99b996","type":"text","text":"Logic\n\n","x":-195,"y":11,"width":250,"height":60},
+		{"id":"c4e46a865b7041f2","type":"text","text":"Code\n","x":-195,"y":120,"width":250,"height":60},
+		{"id":"408bf513f3be34cb","type":"file","file":"Concept.md","x":200,"y":-520,"width":760,"height":420},
+		{"id":"7ac3874b09b2b2c3","type":"file","file":"Logic.md","x":200,"y":-80,"width":760,"height":230},
+		{"id":"19b762d7c5c361b8","x":200,"y":180,"width":760,"height":420,"type":"file","file":"Mechanism.md"}
+	],
+	"edges":[
+		{"id":"2fdd49abb346f731","fromNode":"68e48ccf16c476cc","fromSide":"top","toNode":"b9718d0b4e39c8f0","toSide":"left"},
+		{"id":"e00c133c79cb5255","fromNode":"68e48ccf16c476cc","fromSide":"bottom","toNode":"c4e46a865b7041f2","toSide":"left"},
+		{"id":"89610a34e985ff2d","fromNode":"68e48ccf16c476cc","fromSide":"right","toNode":"d4f91365ad99b996","toSide":"left"},
+		{"id":"7bf94cbf06fa25bc","fromNode":"d4f91365ad99b996","fromSide":"right","toNode":"7ac3874b09b2b2c3","toSide":"left"},
+		{"id":"2473b389a259e7cf","fromNode":"b9718d0b4e39c8f0","fromSide":"top","toNode":"408bf513f3be34cb","toSide":"left"},
+		{"id":"a0f0a13d1d56d1b1","fromNode":"c4e46a865b7041f2","fromSide":"bottom","toNode":"19b762d7c5c361b8","toSide":"left"}
+	]
+}
