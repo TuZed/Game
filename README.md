@@ -5,17 +5,14 @@
 \## LOGIC
 
 * PHẦN MỀM SOẠN THẢO VÀ SẮP XẾP LÝ THUYẾT OBSIDIAN -
-  -> \[\[https://obsidian.md/download]]
+  -> https://obsidian.md/download
 
 
 
-Dùng phần mềm đó để mở thư mục LOGIC
+Dùng phần mềm đó để mở thư mục LOGIC để xem info
 
 
 
 \## CODE
 • GDScript
-
-
-
 
