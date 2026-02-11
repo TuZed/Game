@@ -14,15 +14,8 @@ Dùng phần mềm đó để mở thư mục LOGIC
 
 
 \## CODE
+• GDScript
 
 
 
-
-
-TEAM:
-•Winhy
-•Ú
-•Tú
-•HungMaxx
-•LocMaster
 
