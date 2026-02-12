@@ -72,7 +72,9 @@
 				data/ Chứa các cấu hình hệ thống, thông tin quan trọng
 				-> File Json, source, cấu hình, thông tin, cốt truyện
 				=> Không chứ Node
+				
 				assets/ Chứa các file thuần, tài nguyên gốc
 				-> Không chứa các scripts
 				=> Chỉ chứa file tài nguyên thuần
+				
 

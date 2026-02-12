@@ -5,10 +5,11 @@
 		{"id":"d4f91365ad99b996","type":"text","text":"Logic\n\n","x":-195,"y":11,"width":250,"height":60},
 		{"id":"c4e46a865b7041f2","type":"text","text":"Code\n","x":-195,"y":120,"width":250,"height":60},
 		{"id":"408bf513f3be34cb","type":"file","file":"Concept.md","x":200,"y":-520,"width":760,"height":420},
-		{"id":"7ac3874b09b2b2c3","type":"file","file":"Logic.md","x":200,"y":-80,"width":760,"height":230},
 		{"id":"19b762d7c5c361b8","type":"file","file":"Mechanism.md","x":200,"y":180,"width":760,"height":420},
-		{"id":"b3621652348965c1","x":1240,"y":-865,"width":900,"height":690,"type":"file","file":"Project management techniques.md"},
-		{"id":"8b3694e3a03780a8","type":"file","file":"Structure.md","x":1240,"y":-1640,"width":900,"height":690}
+		{"id":"b3621652348965c1","type":"file","file":"Project management techniques.md","x":1240,"y":-865,"width":900,"height":690},
+		{"id":"8b3694e3a03780a8","type":"file","file":"Structure.md","x":1240,"y":-1640,"width":900,"height":690},
+		{"id":"db3f58f23c23509d","type":"file","file":"File-Code management.md","x":2240,"y":-712,"width":900,"height":385},
+		{"id":"7ac3874b09b2b2c3","type":"file","file":"Logic.md","x":200,"y":-74,"width":760,"height":230}
 	],
 	"edges":[
 		{"id":"2fdd49abb346f731","fromNode":"68e48ccf16c476cc","fromSide":"top","toNode":"b9718d0b4e39c8f0","toSide":"left"},
@@ -18,6 +19,7 @@
 		{"id":"2473b389a259e7cf","fromNode":"b9718d0b4e39c8f0","fromSide":"top","toNode":"408bf513f3be34cb","toSide":"left"},
 		{"id":"a0f0a13d1d56d1b1","fromNode":"c4e46a865b7041f2","fromSide":"bottom","toNode":"19b762d7c5c361b8","toSide":"left"},
 		{"id":"59fda29b75d51dce","fromNode":"408bf513f3be34cb","fromSide":"top","toNode":"8b3694e3a03780a8","toSide":"left"},
-		{"id":"072a8da77ffd8509","fromNode":"408bf513f3be34cb","fromSide":"right","toNode":"b3621652348965c1","toSide":"left"}
+		{"id":"072a8da77ffd8509","fromNode":"408bf513f3be34cb","fromSide":"right","toNode":"b3621652348965c1","toSide":"left"},
+		{"id":"2a1c1c452cb30ea1","fromNode":"b3621652348965c1","fromSide":"right","toNode":"db3f58f23c23509d","toSide":"left"}
 	]
 }

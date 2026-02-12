@@ -15,9 +15,9 @@
               "state": {
                 "file": "GAME.canvas",
                 "viewState": {
-                  "x": 1526.0942182622932,
-                  "y": -369.3813660432869,
-                  "zoom": -1.5097960220973499
+                  "x": 1839.8653644405485,
+                  "y": -331.4862062219389,
+                  "zoom": -1.5677412035231004
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -39,6 +39,20 @@
             }
           },
           {
+            "id": "41046417a01f4d27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "File-Code management.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "File-Code management"
+            }
+          },
+          {
             "id": "b17af102959eae01",
             "type": "leaf",
             "state": {
@@ -52,7 +66,8 @@
               "title": "Structure"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -215,14 +230,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "84a87d92255e6b8b",
+  "active": "41046417a01f4d27",
   "lastOpenFiles": [
-    "Structure.md",
     "Project management techniques.md",
     "GAME.canvas",
-    "Concept.md",
+    "File-Code management.md",
+    "Structure.md",
     "Mechanism.md",
     "Logic.md",
+    "Concept.md",
     "Untitled.base",
     "Untitled",
     "GAME.md",

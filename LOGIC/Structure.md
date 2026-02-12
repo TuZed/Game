@@ -66,4 +66,6 @@
 			EX: 1 Enemy.tscn được Instance 10 lần = 10 kẻ địch
 				trong cụm Scene Lv lúc này sẽ có 10 kẻ địch nhưng bản chất đều từ 
 				một Scene gốc là Enemy.tscn
-			
+	
+	Tổng Quát : các file .tcsn được gọi là scene và trong scene có các node. Hiểu đơn giản các file này quyết định cấu hình mặc định lúc khởi tạo, và được Instance vào Ram máy tính sau khởi tạo. Trong trạng thái duy trì ở Ram các scene và node được xem là các trạng thái cập nhật động -> ở đây ta sẽ hiểu rằng file .tscn sẽ là tham số để xuất phát, còn cái tham số đó sẽ thay đổi như thế nào liên kết như thế nào trong quá trình chơi game thì nó sẽ được thay đổi và lưu ở Ram.
+	( Các file GDScript có dạng là *.gd / Trong file *.tscn có dạng text [node] )
